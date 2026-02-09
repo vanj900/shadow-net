@@ -20,3 +20,10 @@
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
+
+# Bio-Digital Organism outputs
+narratives/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
